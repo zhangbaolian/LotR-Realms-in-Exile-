@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+ hold_court_lotr.1001.t:1 "美髯"
+ hold_court_lotr.1001.desc:1 "我在大厅对面听到[dwarven_char_a.GetName]和[dwarven_char_b.GetName]的大声叫嚷。当这两人接近我时，我的朝臣们全都把注意力转向了我。\n\n“我显然拥有最好的胡须，而这个矮人史上最愚蠢的家伙不接受这一点！”他们完美一致地向我怒吼着，对对方的怒火愈燃愈烈。\n\n看起来我被要求裁决哪个矮人拥有更好的胡须。"
+ hold_court_lotr.1001.a:1 "[dwarven_char_a.GetName]显然拥有更好的胡子。"
+ hold_court_lotr.1001.b:1 "我很确定[dwarven_char_b.GetName]有更好的胡子。"
+ hold_court_lotr.1001.c:1 "两人都有独到之处，他们的胡须都令人羡慕。"
+ dwarven_yearly.1001.c.success:1 "他们喜欢我的论点。"
+ dwarven_yearly.1001.c.failure:1 "只有一个矮人有最好的胡子。"
+ hold_court_lotr.1001.d:1 "我才有最好的胡子！"
+ hold_court_lotr.1001.e:1 "他们马上就没胡子了。"
+ hold_court_lotr.1001.b.befriend_reason:0 "因胡子而成为朋友"
+ hold_court_lotr.1001.a.befriend_reason:0 "$hold_court_lotr.1001.b.befriend_reason$"

@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+ epidemic_beardless_plague: "腐须症"
+ epidemic_realm_beardless_plague: "$epidemic_realm_loc$腐须症"
+ epidemic_holder_beardless_plague: "$epidemic_holder_loc$腐须症"
+ epidemic_culture_beardless_plague: "$epidemic_culture_loc$腐须症"
+ epidemic_location_beardless_plague: "$epidemic_province_loc$腐须症"
+ epidemic_rulers_beardless_plague: "$epidemic_ruler_possessive_loc$腐须症"
+ epidemic_titled_rulers_beardless_plague: "$epidemic_titled_ruler_possessive_loc$腐须症"
+ trait_beardless_plague: "腐须症"
+ trait_beardless_plague_desc:0 "由于疾病，该角色失去了胡子和头发。"
+ trait_beardless_plague_character_desc:0 "由于疾病，[ROOT.GetCharacter.GetFirstNameNoTooltip]失去了胡子和头发。"
+ disease_desc_short_beardless_plague: "被头发的脱落所折磨"

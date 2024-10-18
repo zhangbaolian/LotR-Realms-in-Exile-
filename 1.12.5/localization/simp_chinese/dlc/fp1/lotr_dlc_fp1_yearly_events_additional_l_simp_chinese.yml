@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ fp1_yearly.0066.t:0 "$fp1_yearly.0051.t$：古冢尸妖"
+ fp1_yearly.0066.desc:0 "[draugr.GetFirstNamePossessiveNoTooltip]的古坟冰冷刺骨。这里曾经是一处丧葬之地，但它要么是被盗墓者强行打开石棺后劫掠，要么就是被藏于其中的不死生物破棺而出。\n\n我感到空气在我的胸腔中凝结。在队伍的前方，一个随从突然摔倒在地；一只尸妖的腐烂手臂紧紧抓住了他的腿。\n\n而它空洞的双眼正凝视着我。"
+ fp1_yearly.0066.a:0 "全体目光看向我！集结！"
+ fp1_yearly.0066.a.tt_success:0 "你集结起你的士兵并宰掉这只古冢尸妖！"
+ fp1_yearly.0066.a.tt_failure:0 "你仓皇逃走，保住了自己的小命。"
+ draugr_monstrous_draugr_fp1_modifier:0 "尸鬼古坟"
+ draugr_monstrous_draugr_fp1_modifier_desc:0 "一只渴望生者血肉的尸妖在此处阴魂不散。"
+ fp1_yearly.0066.b:0 "快跑！"

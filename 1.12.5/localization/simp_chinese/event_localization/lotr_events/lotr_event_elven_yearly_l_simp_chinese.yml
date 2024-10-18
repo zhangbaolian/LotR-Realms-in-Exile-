@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ elven_yearly.0001.t:0 "花园精灵"
+ elven_yearly.0001.desc:0 "当我漫步在[capital_province.GetNameNoTooltip]的街道上，一位诺多精灵向我走来。[gardener_character.GetNameNoTooltip]衣着简朴，双手沾满泥土。\n\n“尊贵的[ROOT.Char.GetTitleAsNameNoTooltip]，他们称我为花园侏儒，因为我承袭了辛达对自然万物的母爱。您的领地虽遍布石与金属的杰作，但若奥力与雅凡娜携手共工，岂不更加美丽辉煌？”"
+ elven_yearly.0001.a:0 "你说的有道理，请园丁加入我的宫廷。"
+ elven_yearly.0001.b:0 "请教授[physician.GetNameNoTooltip]草药学。"
+ elven_yearly.0001.c:0 "你愿意教我园艺的技巧吗？"
+ elven_yearly.0001.c.tooltip_b:0 "你什么也没学到"
+ elven_yearly.0001.d:0 "Maybe we should all to a little gardening?"
+ elven_yearly.0001.d.tt:1 "Reduces the cost of establishing the [GetCultureTradition('tradition_gardening').GetName] tradition by [prestige_i]#P [EmptyScope.ScriptValue('tradition_travel_discount')|-0] [prestige|E]"

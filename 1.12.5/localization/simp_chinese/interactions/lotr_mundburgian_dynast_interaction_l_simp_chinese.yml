@@ -1,0 +1,5 @@
+﻿l_simp_chinese:
+ send_to_mundburgian_eored_interaction:0 "送去蒙德堡的伊奥雷德骑士队的#weak （家族）#!"
+ send_to_mundburgian_eored_interaction_desc:0 "$dynasty_interaction_header$将[recipient.GetShortUINameNoTooltip]送去参加蒙德堡的伊奥雷德获取荣耀与财富。这甚至有可能更好地塑造角色，谁知道呢！"
+ send_to_mundburgian_eored_interaction_toast:1 "[recipient.GetShortUIName]动身去了蒙德堡的伊奥雷德骑士队"
+ send_to_mundburgian_eored_interaction_toast_desc:0 "名声和荣耀就在眼前！"

@@ -1,0 +1,5 @@
+﻿l_simp_chinese:
+ NOT_grant_titles_interaction_elves_not_allowed_non_elven_holdings:0 "[CHARACTER.GetShortUINameNotMe]是[elven|E][culture|E]，只可以被授予[elven_refuge|E][holdings|E]"
+ NOT_grant_titles_interaction_non_elves_not_allowed_elven_holdings:0 "[CHARACTER.GetShortUINameNotMe]不是[elven|E][culture|E]，不可以被授予[elven_refuge|E][holdings|E]"
+ DIFFERENT_RACE_REASON:0 "我们是不同种族：$VALUE|=+0$"
+ ELVEN_RELUCTANCE_REASON:0 "[elves|E]不愿意访问外国宫廷"

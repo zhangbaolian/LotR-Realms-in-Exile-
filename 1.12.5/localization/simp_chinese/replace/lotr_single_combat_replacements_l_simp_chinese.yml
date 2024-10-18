@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+ single_combat.0001.stoic_veteran.general:0 "我们在伊奥雷德里面对过比#EMP 你#!更强的对手！"
+ single_combat.0001.stoic_veteran.other_mundburgian:0 "真遗憾要[my_foe.Custom('SignatureWeaponKillType')]蒙德堡卫队里的一位忠诚[my_foe.Custom('SisterBrother')]。"
+ single_combat.0001.tt.stoic_veteran:0 "#BOL 坚毅老兵：#!以你在蒙德堡卫队的经验，你向着[my_foe.GetFirstNameNoTooltip]劈砍过去"
+ single_combat.0001.desc.my_feedback.stoic_veteran:0 "蒙德堡卫队从不助长懈怠。要胜任白城的护卫，就必须要有警惕的眼力和坚实的臂膀，我用一次次打击，向[my_foe.GetFirstNameNoTooltip]展示了持斧者是如何战斗的。"
+ single_combat.0001.desc.opponent_response.stoic_veteran:0 "[my_foe.GetFirstNamePossessiveNoTooltip]在蒙德堡卫队的那段时光将[my_foe.GetHerHim]历练成了一个坚韧、残忍的人，手握[my_foe.Custom('SignatureWeaponArticle')][my_foe.Custom('signature_weapon')]的时候尤其致命，在一击[my_foe.Custom('SignatureWeaponAttemptedHeavy')]击中我的躯干之后紧接着又是另一记[my_foe.Custom('SignatureWeaponAttemptedHeavy')]。"
+ single_combat.0031.desc.sc_defender.stoic_veteran:0 "不管我在[mundburg|E]学到了什么，那都还不够，对手挡住了我的每一次攻击。"
+ single_combat.0031.desc.sc_attacker.stoic_veteran:0 "在卫队里，我们主要护卫王城免受刺客袭击，但刺客大多一见到全副武装的蒙德堡人就望风而逃了。值得称赞的是，我的对手似乎并没有被我咄咄逼人的阵势一步步吓退，我坚忍的劈砍遇上的是[sc_victor.GetHerHis]一次又一次果决的格挡。\n\n"
+ single_combat.0041.desc.sc_defender.stoic_veteran:0 "伊奥雷德不会被击败，这里不会，永远不会。"
+ single_combat.0041.desc.opponent_response.stoic_veteran:0 "[sc_loser.GetFirstNameNoTooltip]举起[sc_loser.GetHerHis]的[sc_loser.Custom('signature_weapon')]，发挥出蒙德堡人的典型能力，用[sc_loser.GetHerHis]的武器向我打出一记又一记平稳的大范围打击。这很困难，但我全都接了下来。\n\n"
+ single_combat.0041.desc.opponent_response.stoic_veteran.fatality:0 "我们的对决陷入了“攻击——闪避——还击”的紧张模式，但我逐渐占据了上风，一击接一击消磨着[sc_loser.GetFirstNameNoTooltip]的体力，直到最后，[sc_loser.GetSheHe]身上的伤口足以杀死大多数[sc_loser.GetWomenMen]两次。\n\n不过，即使是[sc_loser.GetSheHe]也有[sc_loser.GetHerHis]的极限。作为蒙德堡士兵，[sc_loser.GetHerHis]跪倒在地，准备面对致命的一击，很显然，我们都明白这一点。"

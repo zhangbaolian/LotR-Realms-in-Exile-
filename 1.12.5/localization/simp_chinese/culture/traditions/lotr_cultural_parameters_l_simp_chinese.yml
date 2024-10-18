@@ -1,0 +1,8 @@
+﻿l_simp_chinese:
+ culture_parameter_unlock_maa_abrazanim_legion:0 "可以招募[GetMaA('abrazanim_legion').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_abrazanim_warbows:0 "可以招募[GetMaA('abrazanim_warbows').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_narunaru_royal_guard:0 "可以招募[GetMaA('narunaru_royal_guard').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_adunaim_armsmen:0 "可以招募[GetMaA('adunaim_armsmen').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_adunakhori:0 "可以招募[GetMaA('adunakhori').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_umbar_usurpers:0 "可以招募[GetMaA('umbar_usurpers').GetName][men_at_arms|E]"
+ culture_parameter_unlock_maa_abrazanim_helberdiers:0 "可以招募[GetMaA('abrazanim_helberdiers').GetName][men_at_arms|E]"

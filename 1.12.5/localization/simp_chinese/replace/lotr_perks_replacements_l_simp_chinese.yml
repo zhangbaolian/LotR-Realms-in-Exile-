@@ -1,0 +1,5 @@
+﻿l_simp_chinese:
+ praetorian_guard_perk_name:0 "王城禁卫"
+ august_perk_name:0 "贵不可言"
+ parthian_tactics_perk_name:0 "战车民战术"
+ PERK_CAN_SIGN_ALLIANCE:0 "可以不通过[marriage|E]便提议缔结[alliance|E]\n可以提议与另一个[realm|E]缔结[defensive_alliance|E]"

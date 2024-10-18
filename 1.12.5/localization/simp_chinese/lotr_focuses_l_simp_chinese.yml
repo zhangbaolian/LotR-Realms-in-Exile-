@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+ crafting_lifestyle_name:0 "工艺"
+ crafting_lifestyle_desc:0 "专注于钻研复杂的艺术和巧技，从原材料的获取到打造珍丽或强力之物。"
+ crafting_lifestyle_highlight_desc:0 "由于你接受过管理[education|E]，你在这个生活方式中会获得额外#P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#!的[experience|E]。"
+ crafting_artificing_focus:0 "工匠重心"
+ crafting_artificing_focus_desc:0 "花时间在锤和砧上磨炼你的技艺。"
+ crafting_artificing_focus_effect_desc:0 "专注于工匠获得："
+ crafting_enchantment_focus:0 "附魔重心"
+ crafting_enchantment_focus_desc:0 "罕有学识和技艺双全之人，然而唯有如此方能打开铸力之门。"
+ crafting_enchantment_focus_effect_desc:0 "专注于附魔获得："
+ crafting_excavation_focus:0 "发掘重心"
+ crafting_excavation_focus_desc:0 "奥力的财富在地下等待，你需要的只是找到它们的渴望。"
+ crafting_excavation_focus_effect_desc:0 "专注于发掘获得："

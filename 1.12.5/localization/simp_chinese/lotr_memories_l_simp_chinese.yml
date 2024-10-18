@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+ house_feud_started_head_shaved:0 "我被[attacker.GetFirstName]剃光了胡子"
+ house_feud_started_family_shaved:0 "我的[owner.Custom2('RelationToMeShort', SCOPE.sC('victim'))]，[victim.GetFirstName]被[attacker.GetFirstName]剃光了胡子"
+ house_feud_started_head_shaved_second_perspective:0 "你被[attacker.GetFirstName]剃光了胡子"
+ house_feud_started_family_shaved_second_perspective:0 "你的[owner.Custom2('RelationToMeShort', SCOPE.sC('victim'))]，[victim.GetFirstName]被[attacker.GetFirstName]剃光了胡子"
+ house_feud_shaved_head_third_perspective:0 "[owner.GetTitledFirstName]被[attacker.GetFirstName]剃光了胡子"
+ house_feud_started_family_shaved_third_perspective:0 "[owner.GetTitledFirstNamePossessive][owner.Custom2('RelationToMeShort', SCOPE.sC('victim'))]，[victim.GetFirstName]被[attacker.GetFirstName]剃光了胡子"

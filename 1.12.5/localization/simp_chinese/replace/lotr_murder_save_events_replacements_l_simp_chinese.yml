@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+ murder_save.0010.t:0 "$murder_save_header$蒙德堡卫队"
+ murder_save.0010.desc:0 "我试图终结[target.GetTitledFirstNamePossessive]生命的企图受挫了！\n\n刺客被一个无趣的蒙德堡人阻拦！我想[target.GetTitleAsNameNoTooltip]终究得到了[target.GetHerHis]需要的保护……"
+ murder_save.0010.mundburgian_dies:0 "\n\n至少刺客打败了卫兵。[mundburgian.GetTitledFirstName]不会再妨碍我了。"
+ murder_save.0010.a:0 "我现在永远也无法杀死[target.GetHerHim]了！"
+ murder_save.0010.b:0 "我需要一个新计划……"
+ murder_save.1010.desc:0 "一个刺客试图谋害我的性命！谢天谢地，[mundburgian.GetFirstName]，我的蒙德堡卫队的一员，正好在我的房外并迅速出手。[mundburgian.GetSheHe|U]在我受到任何伤害之前就迅速干掉了刺客。"
+ murder_save.1010.mundburgian_dies:0 "不幸的是，[mundburgian.GetFirstNameNoTooltip]在拯救我时受了致命伤。"
+ murder_save.1010.owner_discovered:0 "\n\n毫无疑问，这都是[owner.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]干的！"
+ murder_save.1010.a:0 "谁会是这件事的幕后黑手呢？"
+ murder_save.1010.b:0 "[owner.GetSheHe|U]将会为此付出代价！"

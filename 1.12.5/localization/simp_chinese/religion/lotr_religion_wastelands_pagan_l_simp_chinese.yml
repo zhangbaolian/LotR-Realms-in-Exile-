@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ religion_wastelands_pagan:0 "荒野"
+ religion_wastelands_pagan_adj:0 "荒野"
+ religion_wastelands_pagan_desc:0 "这个地区的人民并没有特定的信仰。"
+ faith_wastelands_pagan:0 ""
+ faith_wastelands_pagan_adj:0 ""
+ faith_wastelands_pagan_adherent:0 ""
+ faith_wastelands_pagan_adherent_plural:0 ""
+ PAGANISM_NOT_SELECTABLE:0 "你不能皈依异教"

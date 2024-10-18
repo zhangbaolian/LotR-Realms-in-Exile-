@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+ governor_government: "总督制"
+ governor_government_adjective: "总督制"
+ governor_government_realm: "总督辖区"
+ governor_government_desc: "$game_concept_feudal_desc$\n\n#F 封建统治者能够任命总督作为他们领土的一部分。这些总督终身任职，死后他们的头衔将归还给他们的领主。#!"
+ APPOINT_GOVERNOR: "任命[GetPlayer.GetPrimaryTitle.MakeScope.Var('selected_title_for_governorship').Title.GetBaseNameNoTier]总督"
+ appoint_governor: "任命为总督"

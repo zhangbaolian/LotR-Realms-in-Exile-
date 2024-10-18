@@ -1,0 +1,8 @@
+﻿l_simp_chinese:
+ dwarven_history_loc:0 "由[mahalcharacter|E]所造的[dwarffathers|E]之一创立"
+ cuivienen_history_loc:0 "在[yearofthetreesage|E]苏醒于[cuivienen|E]"
+ hildorien_history_loc:0 "在太阳初次升起时苏醒于[hildorien|E]"
+ edain_history_loc:0 "在[firstage|E]穿越西部进入[beleriand|E]"
+ apysaic_history_loc:0 "在[secondage|E]定居于[harad|E]"
+ utumno_history_loc:0 "在[yearofthetreesage|E]作为对[eldar|E]的嘲弄而为[morgothcharacter|E]培育"
+ mordor_orcs_history_loc:0 "在[secondage|E]为[sauroncharacter|E]自[CULTURE.GetName]培育而成"

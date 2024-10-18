@@ -1,0 +1,3 @@
+﻿l_simp_chinese:
+ house_feud_beard_shaving:0 "剃须"
+ rival_house_feud_beard_shaved:0 "[house_feud_attacker.GetTitledFirstNamePossessive]剃了我家族成员的胡子。"

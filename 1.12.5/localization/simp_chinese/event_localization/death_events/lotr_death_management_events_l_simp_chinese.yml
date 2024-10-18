@@ -1,0 +1,5 @@
+﻿l_simp_chinese:
+ death_management.1000.elf:0 "我们将在维林诺[mandoscharacter|E]的大门前重逢"
+ death_management.1000.dwarf:0 "[dead_character.GetHerHis|U]铁锤寂静，[dead_character.GetHerHis|U]锻炉冷却。既痛且哭，泪雨沾须。"
+ death_management.1000.a.elf:0 "永别了，我的爱人。"
+ death_management.1001.a.elf:0 "永别了，我的孩子。"

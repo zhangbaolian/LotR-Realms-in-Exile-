@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+ knight_black_breathed_by_enemy_friendly:2 "我们的$knight_culture_player_no_tooltip_lowercase$[CHARACTER.GetShortUINameNoTooltip]被[TARGET_CHARACTER.GetShortUINameNoTooltip]诅咒！"
+ knight_black_breathed_by_enemy_enemy:2 "我们的$knight_culture_player_no_tooltip_lowercase$[CHARACTER.GetShortUINameNoTooltip]诅咒了[TARGET_CHARACTER.GetShortUINameNoTooltip]！"
+ commander_black_breathed_by_enemy_friendly_player:1 "你在指挥部队作战时被[TARGET_CHARACTER.GetUINameNoTooltip]诅咒！"
+ commander_black_breathed_by_enemy_friendly:0 "将领[CHARACTER.GetUINameNoTooltip]在战斗中被[TARGET_CHARACTER.GetUINameNoTooltip]诅咒！"
+ commander_black_breathed_by_enemy_enemy:0 "[TARGET_CHARACTER.GetUINameNoTooltip]在战斗中诅咒了敌方将领，[CHARACTER.GetUINameNoTooltip]！"
+ commander_black_breathed_by_enemy_interface_friendly_player:1 "你在指挥部队作战时被[enemy_knight.GetUINameNoTooltip]诅咒！"

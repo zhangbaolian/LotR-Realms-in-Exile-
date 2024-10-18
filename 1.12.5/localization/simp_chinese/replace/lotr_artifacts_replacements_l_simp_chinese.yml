@@ -1,0 +1,10 @@
+﻿l_simp_chinese:
+ animal_type_aurochs:0 "阿拉武野牛角"
+ artifact_wall_animal_skull_aurochs:0 "巨大的阿拉武野牛角"
+ feature_animal_hide_type_aurochs:0 "阿拉武野牛角"
+ feature_animal_skull_type_aurochs:0 "巨大的阿拉武野牛角"
+ brooch_centerpiece_cross:0 "一个象征白树的[ROOT.Char.Custom2_Flag('ArtifactMetalType', SCOPE.GetFlagName('centerpiece_metal'))]"
+ st_davids_morsel:1 "凯勒布林博的残骸"
+ st_davids_taper:1 "因卡努斯之锥"
+ serpentine_budai:0 "伊斯塔尔玉髓"
+ serpentine_budai.desc:0 "一个身材矮小的、胖乎乎的、留着胡须、笑着的男人。"

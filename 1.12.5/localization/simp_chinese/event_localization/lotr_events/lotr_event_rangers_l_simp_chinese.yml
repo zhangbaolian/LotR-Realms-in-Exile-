@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+ rangers.0100.t:0 "杜内丹人族长"
+ rangers.0100.desc:0 "阿拉贡二世，阿尔诺杜内丹人第十六代族长，身负努门诺尔陨落前的力量与高贵，其形象威严坚毅，智慧超凡，举止庄重。年仅两岁，父亲阿拉松因一支兽人之箭殒命，母亲吉尔蕾恩将他托付于幽谷，由领主埃尔隆德·佩瑞蒂尔抚养长大。\n\n当他年满二十一岁之际，埃尔隆德向他揭示其崇高血统，交予他巴拉希尔之戒和纳熙尔之碎片，仅留存安努米那斯之权杖。此后，他与阿尔玟·乌多米尔陷入爱河，但埃尔隆德却赋予他一项重任：唯有成为阿尔诺与刚铎的至高王，有资格取走安努米那斯之权杖，方可获赐祝福，迎娶心爱之人。\n\n阿拉贡踏上荒野之旅，行走于无垠之地，为自由之民铸就伟大的传奇。光将揭晓他是否能够实现心愿，作为伊熙尔杜后裔是否注定要承受先祖的命运。"
+ rangers.0100.a:0 "青锋断刃将重铸。"
+ rangers.0200.t:0 "吉尔蕾恩逝去"
+ rangers.0200.desc:0 "在一次北方之旅中，阿拉贡于秋日探访母亲吉尔蕾恩。相聚几日后，他欲踏上新的旅程，此时母亲却前来与他交谈。\n\n“埃斯泰尔，我的儿子，我们从此就要诀别了。我像寻常人类一般，因忧劳而衰老。我们这个时代的黑暗正在中洲聚集，我无力面对的时候已经近了。我很快就要离世了。”\n\n阿拉贡竭力安慰她，说：“但黑暗尽头可能就是光明。倘若当真如此，我会让你见到，盼你开怀。”\n\n但她只是以这样一句林诺德体的诗句作答：Ónen i‑Estel Edain, ú‑chebin estel anim；“我将希望给予杜内丹人，自己却毫无保留。”\n\n心沉如铅，阿拉贡离开了，回归到自己的任务和辛劳之中。而吉尔蕾恩不等第二年春天到来就与世长辞。"
+ rangers.0200.a:0 "母亲……我多么想念您，愿您如今与父亲一同安息。"
+ rangers.0101.t:0 "[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]杜内丹人"
+ rangers.0101.desc:0 "自从[GetTitleByKey('k_arthedain').GetNameNoTier]王国的覆灭以来，[dunedainarnor|E]一直隐居幽谷，守护着昔日[arnor|E]王国的领土。为此，他们在[eriador|E]周围建立了营地，以防范任何试图悄然进入这片荒凉之地的威胁。\n\n我如今领导着其中一座营地，我的游民在各处奔走，执行各种使命。所有的杜内丹人都向[dunedain_chieftain.GetTitledFirstName]宣誓效忠，但由于埃利阿多的广袤辽阔，[dunedain_chieftain.GetSheHe]很少对营地进行日常管理，而是将其委托给信任的副手。\n\n然而，我们仍受[dunedain_chieftain.GetHerHim]的束缚，向[dunedain_chieftain.GetHerHim]效忠。或许我们应该更直接地向[dunedain_chieftain.GetHerHim]祈求指引？"
+ rangers.0101.a:0 "[dunedain_chieftain.GetTitledFirstNameNoTooltip]将指引我们。"
+ rangers.0101.b:0 "没必要烦扰族长，我们自己能处理好。"

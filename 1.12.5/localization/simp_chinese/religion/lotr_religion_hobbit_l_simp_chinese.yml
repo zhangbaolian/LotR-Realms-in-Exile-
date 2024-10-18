@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+ hobbit_religion:0 "佩瑞安那斯"
+ hobbit_religion_desc:0 "[hobbits|E]是一个淳朴的民族，他们仍保持着简单的好客和答谢习俗，很少去考虑在镇子之外的广阔的世界中可能存在的更伟大意志。"
+ hobbit_religion_adj:0 "佩瑞安那斯"
+ faith_hobbit:0 "霍比特"
+ faith_hobbit_adj:0 "霍比特"
+ faith_hobbit_adherent:0 "霍比特人"
+ faith_hobbit_adherent_plural:0 "霍比特人"
+ faith_hobbit_desc:0 "一般来说，[hobbits|E]并不是一个会真正思考[powersgods|E]及更高精神存在的民族。尽管他们是一个迷信的民族，有许多关于食人妖、妖术师、自然神灵和精灵的传说，但他们的思考很少触及创世、无上意志或伟大目标等更大的问题。对[hobbits|E]来说，世界很简单，他们必须与之和谐共存——因此，他们选择呆在安全的地方！\n\n学识渊博的霍比特人倘若谈及更为崇高的存在，可能会说到大地之后[yavannacharactershort|E]。正是祂保证了田野的富饶和丰收，霍比特人得以安居乐业。"
+ hobbit_religion_adherent:0 "Hobbit"
+ hobbit_religion_adherent_plural:0 "Hobbits"

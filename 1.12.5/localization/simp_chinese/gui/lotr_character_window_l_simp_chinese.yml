@@ -1,0 +1,4 @@
+﻿l_simp_chinese:
+ WASTELANDS_TITLE:0 "荒野"
+ WASTELANDS_INSTRUCTIONS:0 "这里是处荒野，只有那些流浪者、鬼鬼祟祟的游牧民和野兽会在这里留下足迹。然而，如果你能调集资源，克服新建殖民地将面临的挑战，也许这里能重新成为定居点。\n\n选中伯爵领并点击“殖民”，来建立殖民地。"
+ NEED_TO_BE_UNDERGROUND_RACE:0 "你要覆盖的统治者有一个地下地产。\n要么选择新的统治者，要么选择[orc|E]或[dwarven|E]文化"

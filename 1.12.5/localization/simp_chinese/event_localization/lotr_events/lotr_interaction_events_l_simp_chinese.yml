@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+ lotr_interaction_events.0001.opening:0 "[recipient.Custom2('AppropriateGreetingPositive', actor)]"
+ lotr_interaction_events.0001.desc:0 "我很荣幸收到你的请求，我很乐意在你需要的时候帮助你。"
+ lotr_interaction_events.0001.tooltip:0 "[recipient.GetTitledFirstNameNoTooltip]加入你的防御联盟"
+ lotr_interaction_events.0001.a:0 "惊人的消息！"
+ lotr_interaction_events.0002.title:0 "重建河谷邦和埃瑞博山的联盟？"
+ lotr_interaction_events.0002.desc:0 "For many generations, the men of Dale and the Dwarves of Erebor have had a deep bond. Economically our realms have been intertwined, and military we have come to each other's aid. With the passing of [previous_holder.GetName], a new ruler has risen in [ROOT.Char.GetPrimaryTitle.GetName]. In times past we have sworn oaths of aid and friendship, to defend each other in war and provide succor in peace. Shall we swear this anew, for another generation?"
+ lotr_interaction_events.0002.a:0 "我们当一同立誓。"
+ lotr_interaction_events.0002.b:0 "没有这个必要！"
+ lotr_interaction_events.0003.opening:0 "[recipient.Custom2('AppropriateGreetingPositive', actor)]"
+ lotr_interaction_events.0003.desc:0 "I would like to renew our alliance, which ended with [previous_holder.GetName]'s death."
+ lotr_interaction_events.0003.a:0 "我们当一同立誓。"
+ lotr_interaction_events.0003.b:0 "没有这个必要！"

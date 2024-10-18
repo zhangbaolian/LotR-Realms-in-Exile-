@@ -1,0 +1,10 @@
+﻿l_simp_chinese:
+ overseer_of_the_mines_court_position:0 "督矿者"
+ overseer_of_the_mines_custom_effect_description:3 "根据[aptitude|E]提升[GetActivityType('activity_mining').GetName]成功率"
+ overseer_of_the_mines_court_position_desc:1 "$overseer_of_the_mines_court_position$负责监督全领地的采矿作业，从最小的山麓采石场到最深的矿洞竖井。"
+ stone_singer_court_position:0 "石歌者"
+ stone_singer_custom_effect_description:3 "根据[aptitude|E]提升[GetActivityType('activity_mining').GetName]成功率"
+ stone_singer_court_position_desc:1 "$stone_singer_court_position$知晓呼唤石头的秘歌，也懂得聆听石头的回声。这门秘技乃是[mahalcharacter|E]亲自教导给[dwarves|E]的。"
+ court_position_miner_3_trait:1 "$court_position_miner_1_trait$"
+ court_position_miner_2_trait:1 "$court_position_miner_1_trait$"
+ court_position_miner_1_trait:1 "[GetTrait('lifestyle_miner').GetName( ROOT.Char )]"
